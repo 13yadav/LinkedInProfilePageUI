@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0074B1</color>
+    <color name="colorPrimaryDark">#014B7C</color>
+    <color name="colorAccent">#014B7C</color>
+    <color name="chineseSilver">#CACCCE</color>
+    <color name="taupeGray">#86888A</color>
+    <color name="darkCharcoal">#313335</color>
+</resources>

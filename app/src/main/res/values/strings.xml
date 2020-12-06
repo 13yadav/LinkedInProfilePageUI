@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LinkedInProfilePage</string>
+    <string name="visit_website">Visit Website</string>
+    <string name="follow">Follow</string>
+    <string name="building_the_world_s_most_luxurious_social_media">Building the world\'s most luxurious social media</string>
+    <string name="followers">1000 followers</string>
+    <string name="location">Raipur, Chattisgarh</string>
+    <string name="pageGenre">Information Services</string>
+    <string name="title">YaarMe</string>
+    <string name="cover_photo">cover photo</string>
+    <string name="profile_picture">profile picture</string>
+    <string name="mutual_on_linkedIn">n employees on LinkedIn</string>
+    <string name="lorem_ipsum_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="settings">Settings</string>
+</resources>
